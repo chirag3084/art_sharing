@@ -1,5 +1,7 @@
 # modern-django-1000px for art sharing
 
+# Tech Stack :- django,HTML
+
 ## how to install this project
 
 1. create your virtualenv (optional)
