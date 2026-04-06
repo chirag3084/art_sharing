@@ -1,4 +1,4 @@
-# modern-django-1000px
+# modern-django-1000px for art sharing
 
 ## how to install this project
 
