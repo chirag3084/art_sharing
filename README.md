@@ -33,3 +33,4 @@ $ source ./venv/bin/activate
     (venv) $ export DJANGO_SETTINGS_MODULE="config.settings.local.py"
     (venv) $ python manage.py runserver
   ```
+# Happy Learning
