@@ -1,0 +1,8 @@
+Django==1.10.5
+django-environ==0.4.1
+djangorestframework==3.6.2
+Pillow
+django-rest-auth
+djangorestframework-jwt
+django-allauth
+psycopg2
